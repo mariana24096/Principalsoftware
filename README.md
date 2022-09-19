@@ -15,3 +15,5 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 •	Nacely Aguilar 24243
 
 • Erika Erazo 24091
+
+• Eddy Toj 24190
