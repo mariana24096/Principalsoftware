@@ -13,3 +13,5 @@ Este proyecto incluye la utilización de herramientas de desarrollo como ser Pyt
 •	Adrian Hernandez 24279
 
 •	Nacely Aguilar 24243
+
+• Erika Erazo 24091
